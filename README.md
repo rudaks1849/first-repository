@@ -1,2 +1,2 @@
-# first-repository
-## git config
+# first-repositoryadd new contents
+hello
